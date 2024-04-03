@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+让我们在**五分钟内**了解小恐龙的使用.
 
 ## Getting Started
 
